@@ -1,2 +1,2 @@
 # Projects
-Testing purposes 
+Testing/learning purposes for Python & Golang.
